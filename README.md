@@ -1,16 +1,7 @@
 # proyek_mobile2
 
-A new Flutter project.
+Light mode
+<img width="455" height="834" alt="image" src="https://github.com/user-attachments/assets/7bb5596f-1375-4255-ac26-c482bd350812" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dark mode
+<img width="457" height="826" alt="image" src="https://github.com/user-attachments/assets/a8d8ac93-8bf9-4e2b-9d01-9ccdccf32945" />
